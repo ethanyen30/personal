@@ -11,4 +11,12 @@ At first, I thought it was going to be easy because the initial splitting wasn't
 However, I realized that merging the list was very complicated as I thought of many edge cases (as shown in all my if statements in the code).
 I worked several hours across a few days and maybe only typed a few lines every time I coded. The rest of the time was simply staring at the code.
 Minutes would turn to hours and sometimes, I wouldn't be able to think of anything before my mom called my to go eat dinner.
+One day, as I was staring, I decided to randomly switch a local variable somewhere. Lo and behold, the function worked. I was extremely elated by the fact that
+I had just implemented one of the fastest sorting algorithms in the world! I started playing around with the function and inputted all sorts of lists.
+I truly felt like I had accomplished a major goal, which, at that time, was a huge achievement. 
+
+Although now I know that the mergesort algorithm has been implemented in better and more readable ways, it hasn't demoralized me at all.
+Sometimes, I look back on myself and imagine the joy that I felt as I ran my test code, and every time I imagine, it brings a smile to my face.
+Similarly, if I am stuck on any coding problem, I know that if I really just sit there and stare at the code, then I will be able to solve it.
+This makes me believe that I can accomplish any goal that is set in front of me.
 
